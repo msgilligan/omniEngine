@@ -1,4 +1,5 @@
 Shell scripts for PostgreSQL connections
+----------------------------------------
 
 * `db-drop.sh` - drops omniwallet DB if it exists
 * `db-init.sh` - creates and initializes omniwallet DB
